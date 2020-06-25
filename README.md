@@ -81,6 +81,6 @@ to install passport
     factory(App\Blog::class, 50)->create();
     ```
 
-11. Admin Access
-    User: admin
-    Password: password
+11. Admin Access<br>
+    <b>User - </b> admin<br>
+    <b>Password - </b> password
