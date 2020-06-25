@@ -7,7 +7,7 @@
                 <div>
                     <b-nav tabs>
                         <b-nav-item v-if="$auth.user.role.name == 'admin'"><a @click.stop="importPost" v-if="$auth.check">Import Posts</a></b-nav-item>
-                        <b-nav-item active><a @click.stop="stories" v-if="$auth.check">Stories</a></b-nav-item>
+                        <b-nav-item active><a @click.stop="stories" v-if="$auth.check">My Posts</a></b-nav-item>
                         <b-nav-item><a @click.stop="newStory" v-if="$auth.check">New Post</a></b-nav-item>
                     </b-nav>
                 </div>

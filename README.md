@@ -73,10 +73,14 @@ to install passport
     npm run watch
     ```
 
-8. Dummy data for testing (optional)
+10. Dummy data for testing (optional)
 
     ```
     php artisan tinker
     factory(App\User::class, 25)->create();
     factory(App\Blog::class, 50)->create();
     ```
+
+11. Admin Access
+    User: admin
+    Password: password
