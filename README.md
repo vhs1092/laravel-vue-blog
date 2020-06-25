@@ -82,5 +82,5 @@ to install passport
     ```
 
 11. Admin Access<br>
-    <b>User - </b> admin<br>
+    <b>User - </b> admin@gmail.com<br>
     <b>Password - </b> password
