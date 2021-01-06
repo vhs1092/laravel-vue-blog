@@ -37,7 +37,7 @@
         "@vue/cli-plugin-babel": "^3.3.0",
         "@vue/cli-plugin-eslint": "^3.3.0",
         "@vue/cli-service": "^3.3.0",
-        "axios": "^0.18",
+        "axios": "^0.21",
         "babel-core": "7.0.0-bridge.0",
         "babel-eslint": "^10.0.1",
         "babel-jest": "^24.0.0",
